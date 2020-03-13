@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a0d1a79413821c44fb38e293163c8b72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UIPrefab: {fileID: 1813274027748598, guid: 5114dad54e182294091fce8d578c27ba, type: 3}
+  - UISprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

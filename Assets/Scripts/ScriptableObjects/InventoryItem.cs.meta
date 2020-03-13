@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c38d2b6fd7b8eb42bc1abff49ab63fa
+timeCreated: 1523114444
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UIPrefab: {fileID: 1813274027748598, guid: 5114dad54e182294091fce8d578c27ba, type: 2}
+  - UISprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

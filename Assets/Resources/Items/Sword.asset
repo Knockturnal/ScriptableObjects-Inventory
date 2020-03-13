@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ae7441648f35fc47aec067e098e11ae, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  name: Steel Sword
+  UIPrefab: {fileID: 1813274027748598, guid: 5114dad54e182294091fce8d578c27ba, type: 3}
+  UISprite: {fileID: 21300042, guid: d87ac3c3eb635674c8bb306c9681baa7, type: 3}
+  Description: A steel sword, durable and sharp
+  value: 100
+  weight: 10
+  rarity: 1
+  baseDamage: 5
